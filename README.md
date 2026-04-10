@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Thiago%20Costa&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Building%20the%20Future&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Thiago%20Chaves%20Santos&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Building%20the%20Future&descAlignY=55&descSize=18" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=Hi+there%2C+I'm+Thiago+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+Builder;PHP+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Kotlin;Turning+ideas+into+scalable+products+%F0%9F%9A%80)](https://github.com/thiagocsfoz)
 
